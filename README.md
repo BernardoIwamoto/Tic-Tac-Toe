@@ -1,22 +1,22 @@
-# 🎮 Tic Tac Toe Game - Jogo da Velha com Pygame 🎮
+#  Tic Tac Toe Game - Jogo da Velha com Pygame 
 
-Um jogo clássico de Tic Tac Toe com um toque moderno! ✨
+Um jogo clássico de Tic Tac Toe com um toque moderno! 
 
-## 🚀 Como Rodar
+##  Como Rodar
 
 ```bash
-# 1️⃣ Primeiro, instale o Pygame (se ainda não tiver)
+# 1 Primeiro, instale o Pygame (se ainda não tiver)
 pip install pygame
 
-# 2️⃣ Clone o repositório ou baixe o arquivo
+#  Clone o repositório ou baixe o arquivo
 git clone https://github.com/seu-usuario/tic-tac-toe.git
 cd tic-tac-toe
 
-# 3️⃣ Execute o jogo 🎯
+#  Execute o jogo 
 python TicTacToe.py
 ```
 
-## 🌟 Features Incríveis
+##  Features Incríveis
 - Interface colorida e responsiva
 
 - Efeitos visuais quando alguém ganha
@@ -25,18 +25,18 @@ python TicTacToe.py
 
 - Design moderno e minimalista
 
-## 👾 Como Jogar
-- O jogador ❌ (X) sempre começa
+##  Como Jogar
+- O jogador (X) sempre começa
 
 - Clique em qualquer quadrado vazio
 
-- O jogo alterna automaticamente entre ❌ e ⭕ (O)
+- O jogo alterna automaticamente entre (X) e (O)
 
 - Ganhe formando uma linha de 3 símbolos iguais! 
 
 - Se empatar, o jogo avisa! 
 
-## 📊 Status do Jogo
+##  Status do Jogo
 - O rodapé mostra:
 
 - De quem é a vez 
@@ -45,10 +45,10 @@ python TicTacToe.py
 
 - Se foi empate 
 
-## 🛠️ Tecnologias Usadas
+##  Tecnologias Usadas
 - Python 3 
 
 - Pygame 
 
-## 📜 Licença
+##  Licença
 MIT License - livre para usar e modificar! 
